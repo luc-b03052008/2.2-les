@@ -1,7 +1,6 @@
 # Skill les 2.2
 
 ## Teamleden (en taken)
-- geef hier de namen van de teamleden
-
+- luc, maken. Duncan, emotionele support en helpen 0.0
 ## eindproduct
-- type hier een link naar de live-view van het eindproduct op ma-cloud"# 2.2-les" 
+- "# 2.2-les" 
