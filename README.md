@@ -4,4 +4,4 @@
 - geef hier de namen van de teamled
 
 ## eindproduct
-- [liveview](https://38404.hosts2.ma-cloud.nl/merge/"# 2.2-les)
+- [liveview](https://38404.hosts2.ma-cloud.nl/merge/)
