@@ -1,7 +1,7 @@
 # Skill les 2.2
 
 ## Teamleden (en taken)
-- geef hier de namen van de teamleden
+- geef hier de namen van de teamled
 
 ## eindproduct
-- type hier een link naar de live-view van het eindproduct op ma-cloud"# 2.2-les" 
+- [liveview](https://38404.hosts2.ma-cloud.nl/merge/"# 2.2-les)
